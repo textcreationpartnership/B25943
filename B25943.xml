@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A model for a school for the better education of youth</title>
+            <author>A. B.</author>
+         </titleStmt>
+         <extent>Approx. 24KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25943</idno><idno type="EEBO-CITATION">23986836</idno>
+  <idno type="VID">205659</idno>
+  <idno type="EEBO-PROQUEST">2240856911</idno>
+  
+            <idno type="STC">Wing L1844</idno>
+            <idno type="OCLC">23986836</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25943)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205659)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1704:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A model for a school for the better education of youth</title>
+                  <author>A. B.</author>
+                  <author>Lewis, M. (Mark), fl. 1678.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1675]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed on p. 8: A.B.</note>
+                  <note>Attributed by Wing to Mark Lewis.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Education --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:205659:1"/>
+            <pb n="1" facs="tcp:205659:1"/>
+            <head>A Model for a School for the better Education of YOUTH.</head>
+            <p>REason differences a man from a Beast, Learning makes one man differ from another; therefore timely care ought to be taken in the Education of Gentlemen, that they may have some general Improvement in all kind of Knowledge before they begin to tast of Pleasure and will not bear the Yoak.</p>
+            <p>Learning may be divided into two parts, First, the toylsome part, consisting in <hi>Reading, Writing,</hi> getting the <hi>Grammer,</hi> and the <hi>Copia Verborum;</hi> Secondly, the pleasant part, which may be divided into two Branches; First the Solid part, by which I mean the Knowledge of things, especially such things as are obvious to sense, as <hi>Herbs, Druggs, Seeds, Mineral-Juices, Metals, Pretious Stones, Birds, Beasts, Fishes, Anatomy, Astronomy, Geography, Geome<g ref="char:EOLhyphen"/>try, Arithmetick, Gardning, Planting,</hi> &amp;c.</p>
+            <p>Secondly the Mechanick or Complemental part, As <hi>Dancing, Singing, Instrumental Musick, Fencing, Wrestling, Vaulting, Riding</hi> the manag'd Ho<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>se, <hi>Military Discipline, Painting, Turning,</hi> &amp;c. My Intention is to Demonstrate how Gentlemen may attain at least some general Knowledge in most of these things in the time they spend at School, were Schools order'd as they might be.</p>
+            <p>To this end, First <hi>Grammer</hi> must be made Short and Plain, e<g ref="char:EOLhyphen"/>specially the Rudiments of it. Secondly, the way to gain the <hi>Co<g ref="char:EOLhyphen"/>pia Verborum,</hi> must be made Easie; Thirdly, things obvious to Sense, must be learn't with words. Fourthly, one Master must not be charged with too many Schollars, suppose ten, or at most fifteen, and they must be all in one form. Fiftly, Professors must be always upon the place to teach the delightful part of Learning in the times of Intermission.</p>
+            <p>I have perused all Models which have come to my hands, and have made the best Observation I could upon them, and I find none that offers fairer than <hi>M. Lewis</hi> of <hi>Tottenham High-cross:</hi> I have carefully examined his Notions, upon which he builds his whole <hi>Grammatical Hypothesis;</hi> They are mainly two. First, that the Rules of Grammer ought to be plain, that they ay be easi<g ref="char:EOLhyphen"/>ly Understood; especially because they are to be learn't by Chil<g ref="char:EOLhyphen"/>dren, to the meaness of whose capacities we ought to condescend; Now plainness in regard of the thing signifying, therefore the Rules ought not to be in <hi>Latine,</hi> much less in Verse: and plain<g ref="char:EOLhyphen"/>ness
+<pb facs="tcp:205659:2"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="1" facs="tcp:205659:2"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:205659:3"/> is in respect of the thing signified, Therefore it is not reason<g ref="char:EOLhyphen"/>able to use Logical Definitions in the Etymologia, nor second Notions in the <hi>Syntax</hi> of the introductory Grammar. He shews how most things in Grammer may be brought down to the sense of Seeing, in regard of the thing signified: For the better effect<g ref="char:EOLhyphen"/>ing of which, he proposes a Technical Author, in which the se<g ref="char:EOLhyphen"/>veral parts of Speech shall be Printed in a different Character, so that what he cannot describe by Rule, may be made sensible by Example.</p>
+            <p n="2">2. Secondly, he saith the Rules of the <hi>Latine</hi> ought to be ac<g ref="char:EOLhyphen"/>commodated particularly to the <hi>English</hi> Tongue, and the Rules of the <hi>Greek</hi> to the <hi>Latine;</hi> because all improvement of Know<g ref="char:EOLhyphen"/>ledg is by comparing what we are to learn, with something we know already, we tack on the New Notion to some old Idea we have before in our minds; It is a Law of Nature to proceed, <hi>a no<g ref="char:EOLhyphen"/>to ad ignotum;</hi> by this means the Rules of Grammar become more short and easie to Understand, get, and keep.</p>
+            <p>These things are more largly discussed in his Essay and Preface to his Grammar for the <hi>English, Latine</hi> and <hi>Greek</hi> Tongues, con<g ref="char:EOLhyphen"/>sisting of about three sheets, Founded upon these two principles; From which principles he makes these Deductions.</p>
+            <p n="1">1. The Grammer of the <hi>Latine</hi> may be accommodated to the <hi>English</hi> in the Etymologia, to know the parts of Speech thus. <hi>Substantives</hi> have a plural <hi>number,</hi> as <hi>Song, Songs</hi> No other part of Speech is distinguished in <hi>number</hi> in the <hi>English,</hi> besides <hi>Sub<g ref="char:EOLhyphen"/>stantives, Adjectives</hi> have the same termination in both <hi>Numbers,</hi> as <hi>Good Song,</hi> Good songs, &amp;c So likewise the Rules for <hi>Govern<g ref="char:EOLhyphen"/>ment</hi> in the <hi>Syntax</hi> ought to be by the <hi>English signs,</hi> which are, <hi>a, the, of, to, for, in, with, from, by.</hi>
+            </p>
+            <p n="2">2. The Declensions of <hi>Nouns</hi> and Conjugations of <hi>Verbs,</hi> are better known by the <hi>Theme,</hi> then by the <hi>Genitive Case,</hi> or <hi>Insini<g ref="char:EOLhyphen"/>tive Mood,</hi> as <hi>Musa</hi> is of the fi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>clension because it ends in <hi>A. Amo</hi> is of the first Conjugation because it ends in <hi>O.</hi> impure &amp;c. the Old way is a Circle.</p>
+            <p n="3">3 He saith the <hi>G nders</hi> of <hi>Nouns</hi> ought to be concluded from the Declension, which may be done by five Rule<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and not by the increasing of the <hi>Genitive case;</hi> As all <hi>Nouns</hi> of the first and fifth Declension are of the <hi>Feminine Gender,</hi> &amp;c.</p>
+            <p n="4">4. Three Rules state the whole, <hi>As in praesenti,</hi> if we add the <hi>Supine</hi> to the <hi>preter perfect tense:</hi> The Exceptions are the same with <hi>Lilly,</hi> and ought to be Learn'<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> at the fi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st <hi>Vocabulary.</hi>
+            </p>
+            <p n="5">5. The <hi>Syntax</hi> may be comprehended in three Rules according to the number of words declined, which are <hi>Substantives, Adjectives,</hi> and <hi>Verbs.</hi> (1) a <hi>Verb</hi> hath <hi>Number</hi> and <hi>Person</hi> by the <hi>Substantive</hi> be<g ref="char:EOLhyphen"/>fore it, of which it is the Motion; as, <hi>I did love, we did love.</hi> (2) The <hi>Adjective</hi> hath <hi>Number, Case,</hi> and <hi>G<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nder,</hi> by the <hi>Substantive</hi>
+               <pb n="3" facs="tcp:205659:3"/> after it, of which it is the manner; as, a <hi>good man,</hi> a <hi>good woman.</hi> (3) Every <hi>Substantive</hi> (which is not the <hi>Nominative case</hi> to the <hi>Verb</hi>) shall be governed of the word before it, on which it de<g ref="char:EOLhyphen"/>pends according to the <hi>sign.</hi> As, <hi>I do give the garment of my Fa<g ref="char:EOLhyphen"/>ther, to thee for a pl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dg with my hand from my Brother.</hi> All these <hi>Sub<g ref="char:EOLhyphen"/>stantives</hi> have <hi>Case</hi> by the <hi>sign.</hi> Three Exceptions from th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s last Rule, do make the <hi>Syntax</hi> Tolerable for a beginner. Which are, (1) Apposition. (2) The <hi>Ablative case</hi> absolute, (3) a few <hi>Verbs</hi> put acquisitively where <hi>To</hi> is understood, all the other Excep<g ref="char:EOLhyphen"/>tions concern but a few particular Words, which may be observed as they occur.</p>
+            <p n="6">6 He shews how the <hi>Greek</hi> Tongue may be accommodated to the <hi>Latine</hi> in the Etymol<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gia, by comparing the <hi>Greek Nouns</hi> to the <hi>Latine,</hi> and the <hi>Greek Verbe</hi> to the <hi>Latine;</hi> only there is but one Conjugation in the <hi>Greek,</hi> the Contracted <hi>Verbs</hi> out of Contra<g ref="char:EOLhyphen"/>ction, are of the sixth <hi>Conjugation,</hi> and the <hi>Verbs</hi> in <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mi,</hi> may be reduced to the <hi>Aoristus secundus passive:</hi> also in the <hi>Syntax</hi> most of the Irregularities of the <hi>Latine,</hi> where there is not an <hi>Elypsis</hi> are Grecisms. These things are discussed more la gely in his Grammar.</p>
+            <p n="7">7. He shews the great Design ought to be to teach Children things, especially such as are obvious to Sense.</p>
+            <p n="8">8 That Words m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y be learnt together with things, he believs, <hi>Co<g ref="char:EOLhyphen"/>menius hic Janua Linguarum</hi> to be the most compendious way, where the whole <hi>Copia</hi> of wo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ds in their propriety are contained in a lit<g ref="char:EOLhyphen"/>tle compass, and may be quickly learnt. Further, that Book is a System of Things as well as a repository of Words, it is digest<g ref="char:EOLhyphen"/>ed into eight Comedies by the Author, and turned into <hi>Greek</hi> by D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Litleton,</hi> and was it dressed in <hi>French, Italian,</hi> and <hi>Spanish,</hi> the advantage would be very great. When it is learnt in <hi>Latine,</hi> the learning in <hi>Greek</hi> would confi m the <hi>Latine,</hi> both these would dis<g ref="char:EOLhyphen"/>pose to learn <hi>French, Italian,</hi> or <hi>Spanish,</hi> in a few mon<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ths; wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n it is thus learnt, it would be like <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>opicks in the A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t o Memory. it concerns the assertors of the old Method, to answer his Alle<g ref="char:EOLhyphen"/>gations, or not to reproach a Man behind his back, they are wil<g ref="char:EOLhyphen"/>ling to look in the face.</p>
+            <p>The Method he proposes is so Natural that I cannot but own it. <hi>From hence Education may be improved thus,</hi>
+            </p>
+            <p n="1">1. A convenient house must be provided, where all the Schol<g ref="char:EOLhyphen"/>lars may be kept within bounds, to prevent Debauchery.</p>
+            <p n="2">2. Secondly, Children should learn to Write betimes; this will dispose them to all things to be learnt afterward.</p>
+            <p n="3">3. Thirdly, That they should be instructed early in <hi>Geometry:</hi> for they will as soon handle a pair of Compasses, as use a Pen, and draw a perpendicular or paralel Line, as make a Letter.</p>
+            <p n="4">4. Fourthly, <hi>Arithmetick</hi> is not to be neglected, seeing they
+<pb n="4" facs="tcp:205659:4"/> will as easily understand the nine Figures, as so many Letters, and may learn Arithmetick as soon as Spelling.</p>
+            <p n="5">5. Fifthly, That they be shewn something of <hi>Astronomy</hi> and <hi>Geography</hi> by Globs and Maps, which will be as much a Recreati<g ref="char:EOLhyphen"/>on to them, as to know the streets in <hi>London.</hi>
+            </p>
+            <p n="6">6. Sixthly, If <hi>Repositories</hi> for <hi>Visibles</hi> were prepared for them, they would take content to see <hi>Hearbs, Plants, Druggs, mineral Jui<g ref="char:EOLhyphen"/>ces, Metals</hi> and <hi>pretious stones,</hi> the <hi>pictures</hi> of <hi>Birds, Beasts,</hi> and <hi>Fishes;</hi> and by beholding the things would be better enabled to remember the names.</p>
+            <p n="7">7. Seventhly, It would lay a foundation for future Knowledge in Children, if they were shewd the outward and inward parts of the Body, <hi>viz.</hi> the <hi>Muscles, Veins, Bones, Arteries</hi> and <hi>Intrals.</hi>
+            </p>
+            <p n="8">8. Eightly, It would be convenient, Children in the season of the year, should be shewd something of <hi>Gardening, Planting, Ino<g ref="char:EOLhyphen"/>culating,</hi> &amp;c. They are capable of unde<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>standing all these things, and would be delighted in them, because in the practise of them, they are obvious to Sense.</p>
+            <p n="9">9. Ninthly, As they are growing up, it would much improve them to Travel under some prudent Guide, and to see the most remarkable things in their own Country, before they travel a<g ref="char:EOLhyphen"/>broad: and to make Observations of Improvement of all Hus<g ref="char:EOLhyphen"/>bandry.</p>
+            <p n="10">10. Tenthly, To this solid Learning may be added, <hi>Dancing, Sing<g ref="char:EOLhyphen"/>ing,</hi> Instrumental <hi>Musick,</hi> &amp;c.</p>
+            <p n="11">11. Eleventhly, and Last of all, frequent acting of <hi>Interludes</hi> would much improve Children in Audacity and Carriage, Particularly <hi>Comenius</hi> his <hi>Praxis Comica,</hi> containing the whole <hi>Ja<g ref="char:EOLhyphen"/>nua Linguarum</hi> in eight Comedies, which are very innocent, and they may be performed without much trouble for P operties; be<g ref="char:EOLhyphen"/>side these would improve the Children in their <hi>Janua</hi> when they have once learnt it.</p>
+            <p>
+               <hi>Obj.</hi> If G ammar be made so short, and Words g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t thus easily, that a Child of middle parts may be a Competent Master of five or six Languages, in three or four years, what shall he do after<g ref="char:EOLhyphen"/>wards, before he is old enough to be sent to the University.</p>
+            <p>
+               <hi>An.</hi> The Child may further habituate himself in the things be<g ref="char:EOLhyphen"/>fore menti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ned, and if he had seven years to spare, he may im<g ref="char:EOLhyphen"/>ploy all his gained time in History.</p>
+            <p>
+               <hi>Obj.</hi> Here are so many things to be done, that one thing will hinder another, and so nothing be effectually Performed at all.</p>
+            <p>
+               <hi>An.</hi> To this I answer, <hi>Store is no sore;</hi> And every Parent shall be left to his liberty to choose what his Child shall learn, as best suiting his Quality and natural Inclination; It is not to be sup<g ref="char:EOLhyphen"/>posed that all these things shall be taught at one time; Perhaps all of them shall never be taught to many at any time, they may,
+<pb n="5" facs="tcp:205659:4"/> learn two things at a time, in regard they shall be instructed in these things four times in one day, and may easily keep what they have gotten; Doubtless in seven or eight years (the time usually spent at School, from eight till fifteen) all that are not natural<g ref="char:EOLhyphen"/>ly Fools, may get some tolerable insight into many of the things before mentioned; or at least every one may light upon some one thing suiting his Genius, in which he may prove Excellent. Sure<g ref="char:EOLhyphen"/>ly this is better, then to spend so many years meerly in learning Words and a little History, it is better to be a general Schollar, then to understand more profoundly, one or some few particular things.</p>
+            <div type="part">
+               <head>For the better carrying on of this, it is Requisite,</head>
+               <p n="1">1. First, That two or three persons should be concerned, as Partners or principal Undertakers, who will have imployment en<g ref="char:EOLhyphen"/>ough to see that every thing be carried on orderly.</p>
+               <p n="2">2. Secondly, Professors must be always on the place to teach the Complemental qualities in Play-times.</p>
+               <p n="3">3. Thirdly, To this end, Children shall never be at their Book above an hour and a half at a time, but have frequent In<g ref="char:EOLhyphen"/>termissions of an hour and half, or two hours; For instance, they may be at School an hour and half before Break-fast, half an hour may be allowed for Break-<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ast, then one hour may be spent in these delightful Exercises, the Children shall be at School again one hour and a half befor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Dinner then one hour may be allowed for Dinner and Play, and then one hour may b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ordered for delightful Learning, <hi>&amp;c.</hi> I suppose all Men can re<g ref="char:EOLhyphen"/>member how tedious it was to them when they were Boys, to si<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> four or five hours at one time, in a bitter cold School in the <hi>Winter<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> or a sultery hot School in the <hi>Summer,</hi> under a Tyranical Maste<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> and an unintelligeble Grammar: So there would be allowed se<g ref="char:EOLunhyphen"/>ven hours for the troublesome Learning, four for delightful Lea<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ning, and the rest thirteen for Eating and Drinking, Sleepin<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> and Play.</p>
+               <p>
+                  <hi>Ob.</hi> If any think Children by this means are kept in too gre<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Slavery, at other Schools, they have commonly <hi>Tuesdays, Thu<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>days</hi> and <hi>Saturdays</hi> in the Afternoons, only for Play, either<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Course, or else upon the request of Friends, which shall be whol<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> denied here; besides they have two hours at Dinner, and four<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> five hours after they break up School at night, to spend as th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> please.</p>
+               <p>
+                  <hi>An.</hi> Children in intermissions, either have exercise imposed<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> troublesome to do, as if they were at School, for the neglect<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> which they are frequently corrected, or they go to learn Writi<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> and Ciphering, or else are troublesome to their Relations and<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> themselves whilst they mispend their time.</p>
+               <p>
+                  <hi>Obj.</hi> Another Objection is this? How shall the charges of t<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ofessors be born?</p>
+               <pb n="6" facs="tcp:205659:5"/>
+               <p>
+                  <hi>An.</hi> I Answer, The chief Undertakers may entertain so many Servants as they please, to be Apprentices for certain years; which shall each of them be Prae-instructed in one or two of these Qua<g ref="char:EOLhyphen"/>lities; in the School time they shall be as Ushers at the elbows of the chief Masters, and at Play time shall exercise the Children in the Complemental Qualities before mentioned, one of the Un<g ref="char:EOLhyphen"/>dertakers standing by, and once a week the principal Masters of the Qualities these Young-men teach, shall supervise them un<g ref="char:EOLhyphen"/>til they shall be of years and Experience to manage their Business alone. All persons in <hi>London</hi> take this course in their Trades, as difficult to be discharged, as this thing is, and so learn one Appren<g ref="char:EOLhyphen"/>tice under another. To be sure a Young-man thus bred for seven years, will be in as probable a way to support himself, as any way I can think of. By this plentiful supply of Ushers, a particular care may be taken of the Children; And if the Method was but ordinary, they would be more improved, than where one Master tea<g ref="char:EOLhyphen"/>ches a hundred in two Forms, or thirty or forty in three or four Forms, as is usual in most great Schools of <hi>England.</hi> For these Ap<g ref="char:EOLhyphen"/>prentices shall be as Ushers at the elbow of a principal Master in School-time, if a principal Master hath twenty Children to teach, he may have one of these Servants his assistant to be at his appoint<g ref="char:EOLhyphen"/>ment.</p>
+               <p>
+                  <hi>Ob.</hi> This delightful Learning, because imposed, will be as toil<g ref="char:EOLhyphen"/>some as other Studies.</p>
+               <p>
+                  <hi>An.</hi> The variety of Imployment, will take off much of the <hi>Te<g ref="char:EOLhyphen"/>dium</hi> when Childr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n are once accustomed to this Method.</p>
+               <p>I do not see why these bodily Exercises <hi>(though Imposed)</hi> may not as well cause the Blood to circulate, and th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>se delightful Stu<g ref="char:EOLhyphen"/>dies chear the Spirits, as any their usual childish Recreations; to be sure i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> will do them more good, than running in the Dirt, ly<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ng upon the Ground, or scorching in the Sun: Especially if Se<g ref="char:EOLhyphen"/>verity may be avoided, which I think, may be done by a Prudent <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>se of School-money; that Children shall never be in danger, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>or fear of Stripes, unless in case of Contempt, which rock they <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ay avoid if they please.</p>
+               <p>Ob. <hi>But what shall those Children do in the times of intermission, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>hose Parents do not desire, they should learn any of those Complemen<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>al Qualities before mentioned?</hi>
+               </p>
+               <p>
+                  <hi>An.</hi> All Parents will desire their Children should learn <hi>Writing, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ipbering,</hi> drawing with a <hi>Pen, G ometry,</hi> the use of <hi>Maps</hi> and <hi>Globs,</hi>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e name and natures of all <hi>Simples,</hi> their Children shall be ex<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>cised in these things, and so get a greater Knowledge in them, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> they have yet time to spare, to be sure there is delightful Hi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ory enough for them to read, so long as they shall be continued <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>t School.</p>
+            </div>
+            <div type="part">
+               <pb n="7" facs="tcp:205659:5"/>
+               <head>At <hi>Tottenham High-cross</hi> four miles from <hi>London</hi> in the Road to <hi>Cambridge,</hi> this Model is carrying on where so many of these things shall be performed as can be expected from a Schoo l newly Erected for this purpose. Namely,</head>
+               <p n="1">1. First, The Grammar for the <hi>English, Latine, Greek</hi> and <hi>He<g ref="char:EOLhyphen"/>brew,</hi> shall be taught:</p>
+               <p n="2">2. Secondly, There shall be at present, an apartment for <hi>French,</hi> and hereafter for <hi>Italian</hi> and <hi>Spanish:</hi>
+               </p>
+               <p n="3">3. Thirdly, Provision is made of <hi>Maps</hi> and <hi>Globs,</hi> with Instru<g ref="char:EOLhyphen"/>ments and Books for <hi>Astronomy, Geography</hi> and <hi>Geometry:</hi>
+               </p>
+               <p n="4">4. Fourthly, There is a Master for <hi>Writing</hi> and <hi>Arithmetick:</hi>
+               </p>
+               <p n="5">5. Fifthly, Masters are also provided for teaching <hi>Musick, Dan<g ref="char:EOLhyphen"/>cing, Singing, Painting, Fencing</hi> and <hi>Military Discipline:</hi>
+               </p>
+               <p n="6">6. Sixthly, <hi>Repositories</hi> for <hi>Visibles</hi> shall be immediately provid<g ref="char:EOLhyphen"/>ed, out of which may be produced, <hi>Herbs, Drugs, Seeds,</hi> Mineral <hi>Juices, Metals,</hi> precious <hi>Stones, Birds, Beasts,</hi> and <hi>Fishes,</hi> that can<g ref="char:EOLhyphen"/>not be produced in Specie, shall be shewed in their Pictures:</p>
+               <p n="7">7. Seventhly, <hi>Comenius</hi> his <hi>Interludes,</hi> shall be Acted at least four times a Year:—</p>
+               <p>Riding the <hi>Managed Horse,</hi> is a business of that Charge, that it cannot be Attempted till there be such a number of Gentlemen upon the Place as will bear the charge of it.</p>
+               <p>Ordinary Persons shall be entertained at 20 <hi>l. per annum,</hi> or un<g ref="char:EOLhyphen"/>der, to learn what they please; Gentlemen at 25 <hi>l. per annum;</hi> and persons of greater Quality at 30 <hi>l.</hi>
+               </p>
+               <p>Doubtless by this means much Time will be saved, and persons thus Bred, will be disposed to raise themselves higher in all kind of Learning, when they shall be advanced to the <hi>University;</hi> and be much sitter to serve their <hi>King</hi> and <hi>Country</hi> in any publick Im<g ref="char:EOLhyphen"/>ployment: At the worst, in any private Condition, they will have much advantage by Conversation, and be incouraged to divert themselves in their private Studies when so good a Foundation is laid.</p>
+               <p>If no more be done in the Tongues by this short Method of <hi>Grammar,</hi> and this particular attendance of <hi>Masters</hi> (which can<g ref="char:EOLhyphen"/>not well be supposed) the probability of Understanding things, and attaining some of those Complemental Qualities, may justi<g ref="char:EOLhyphen"/>fie any prudent Man, in making a Tryal where the charge will not be greater then at other Schools.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="dedication">
+            <pb n="8" facs="tcp:205659:6"/>
+            <head>To the Right Honorable, <hi>Arthur,</hi> Earl of <hi>Anglesey</hi> Lord Privy-Seal.</head>
+            <p>Your Honor hath been Pleased to peruse this <hi>Mo<g ref="char:EOLhyphen"/>del,</hi> and so far to approve of it, as to send your Grand-Children, My Lord <hi>Dacey,</hi> and Sir <hi>James Pore</hi> to be Educated by it; which doth incourage Me to lay it at Your Honors Feet, and humbly begg Your Patronage.</p>
+            <closer>
+               <signed>A. B.</signed>
+            </closer>
+         </div>
+         <div type="notice">
+            <p>AT the <hi>Anchor Coffee-house</hi> in <hi>Fleet-street</hi> near <hi>White Fryers-gate,</hi> some Person will be every <hi>Thursday</hi> in the Afternoon from Four till Six of the Clock, who will give an Account of these things to any, that shall desire it.</p>
+            <p>
+               <hi>M. Lewis</hi> his Books are sold by <hi>Thomas Parkhurst</hi> in <hi>Cheapside</hi> at the <hi>Bible</hi> and <hi>three Crowns.</hi>
+            </p>
+         </div>
+         <div type="notice">
+            <p>ANy persons that are grown, may be instructed in this Me<g ref="char:EOLhyphen"/>thod of <hi>Grammar</hi> by Mr. <hi>Stacy,</hi> at Mr. <hi>Banisters</hi> at the <hi>Aca<g ref="char:EOLhyphen"/>demy</hi> in <hi>Chancery lane</hi> near the <hi>Pump.</hi> Such as have any thing of the <hi>Copia</hi> of Words, may in a few hours be made Masters of the Necessary part of the <hi>Latine</hi> and <hi>Greek</hi> Grammar; though they have discontinued the thought of them many years, and forgot them never so much. Also there is taught <hi>Rhetorick, Astronomy, Geography, Geometry, Arithmetick, Writing, Painting, French, Singing, Musick, Dancing, Wrestling, Fencing,</hi> Riding the <hi>Managed Horse.</hi>
+            </p>
+            <p>Any Person that desire it, may be Accommodated in Mr. <hi>Bani<g ref="char:EOLhyphen"/>ster</hi>'s House with Diet and Lodging at reasonable Rates, and may learn all, or as many of these things as they please; or they may come thither at set times and be Instructed in the things before mentioned.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
